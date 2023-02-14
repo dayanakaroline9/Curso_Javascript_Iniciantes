@@ -49,3 +49,15 @@ Tutorial - Criando botão
 
 https://docs.google.com/document/d/1BhLx96s3VH36cGxIahINqky9v7xoU1TMKc0zjwtmT20/edit?usp=sharing
 
+**Mouse**
+
+Agora vamos aprender como identificar as teclas do teclado
+
+Tutorial 1 - Identificando as teclas do teclado
+https://docs.google.com/document/d/1luNryT_o9lvW_2bva11zPnCuU3FVxz_rTk6bQ8nSWE8/edit?usp=sharing
+
+Tutorial 2 - movendo objetos com o teclado
+https://docs.google.com/document/d/1UWAM0qrCwTQFVEpfMtehU1F06kOBnXia9tv1FEsv6Ks/edit?usp=sharing
+
+Tutorial 3 - Digitando com o teclado
+https://docs.google.com/document/d/1c7zkNDqm0wMH3HqlSJVyHTktBbJYQORzRpD6oUBsiRc/edit?usp=sharing
