@@ -49,7 +49,7 @@ Tutorial - Criando botão
 
 https://docs.google.com/document/d/1BhLx96s3VH36cGxIahINqky9v7xoU1TMKc0zjwtmT20/edit?usp=sharing
 
-**Mouse**
+**Teclado**
 
 Agora vamos aprender como identificar as teclas do teclado
 
